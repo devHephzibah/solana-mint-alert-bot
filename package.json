@@ -1,0 +1,15 @@
+{
+  "name": "solana-mint-alert",
+  "version": "1.0.0",
+  "description": "A script to monitor Solana token mints and send alerts to Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
