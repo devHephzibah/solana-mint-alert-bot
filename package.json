@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node index.js"
+    "@solana/web3.js" : "^1.100.0"
   },
-  "author": "Your Name",
+  "author": "Hephzibah",
   "license": "MIT"
 }
